@@ -59,11 +59,11 @@ git push -u origin main
 
 ---
 
-## 🚀 **3. Deploy to Railway**
+## 🚀 **3. Deploy to Railway or Render**
 
 ### **Option A – Dashboard**
 
-1. Visit [railway.app](https://railway.app)
+1. Visit [railway.app](https://railway.app) OR https://render.com
 2. Sign in with GitHub
 3. **New Project → Deploy from GitHub**
 4. Select your repo
@@ -83,7 +83,7 @@ railway up
 
 ## 🌍 **4. Add Environment Variables in Railway**
 
-1. Go to your Railway project
+1. Go to your Railway project [Same for Render]
 2. Click **Variables**
 3. Add your Gemini keys & settings exactly as in `.env`
 
